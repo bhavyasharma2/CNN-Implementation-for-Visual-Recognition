@@ -1,4 +1,4 @@
-# Implementing-CNN-for-Image-Classification
+# Implementing CNN for Image Classification
 
 **Overview**
 
