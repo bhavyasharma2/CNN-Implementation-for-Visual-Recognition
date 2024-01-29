@@ -1,4 +1,4 @@
-# Implementing CNN for Image Classification
+# CNN Implemention for Visual Recognition
 
 **Overview**
 
